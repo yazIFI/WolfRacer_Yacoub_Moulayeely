@@ -327,13 +327,7 @@ var collisionsBox = [
         width: 150,
         height: 40
         }
-         //rect 34
-       /* {
-        x: 6160,
-        y: 804,
-        width: 122,
-        height: 84
-        }*/
+       
          //rect 48 transv
          /*
         {
